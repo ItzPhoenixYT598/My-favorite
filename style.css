@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding-top:80px;
+    background: linear-gradient(180deg, rgba(5,97,179,1) 36%, rgba(0,255,175,1) 100%);
+  background-repeat:repeat-x;
+    text-align: center;
+}
+
+h1{
+font-size: 50px;
+font-style:normal;
+    font-weight: bolder;
+}
+
+h2{
+    font-size; 20px;
+    font-weight: bold;
+}
+
+h3{
+font-size:20px;
+    font-weight:300px;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+}
